@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.303864740/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.303864740/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.303864740/PATH/value=C\:\\Users\\asaffe\\Desktop\\adt-bundle-windows-x86_64\\eclipse;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files\\Java\\jdk1.7.0_45\\bin;C\:\\cygwin64\\bin
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.303864740/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.303864740/appendContributed=true
